@@ -13,7 +13,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
       <p>I am an aspiring software developer studying in 42 Wolfsburg. 
-  During my curricullum here I have made numerous interesting projects including an HTTP webserver
+  During my curricullum here I have made numerous interesting projects including an HTTP webserver,
   ray tracer in C, shell clone. Currently I am working on a web aplication with posgres, nest js and next js.
   I enjoy DnD - databases and development!
 </p>
