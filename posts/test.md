@@ -1,6 +1,6 @@
 ---
-title: 'When to Use Static Generation v.s. Server-side Rendering'
-date: '2022-01-02'
+title: 'Testing'
+date: '2024-01-12'
 ---
 
 Testing
