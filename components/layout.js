@@ -7,6 +7,7 @@ import Link from 'next/link'
 const name = 'Piotr Biedermann'
 export const siteTitle = 'Portfolio Website'
 
+
 export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
@@ -30,7 +31,7 @@ export default function Layout({ children, home }) {
           <>
             <Image
               priority
-              src='/images/'{siteTitle}'.jpg'
+              src={`/images/${siteTitle}.jpg`}
               className={utilStyles.borderCircle}
               height={144}
               width={144}
